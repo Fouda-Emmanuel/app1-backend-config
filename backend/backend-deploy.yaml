@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: backend
-          image: foudaemmanuel/app1-backend:v1.0.0 
+          image: foudaemmanuel/app1-backend:v1.0.0
           ports:
             - containerPort: 5000
